@@ -2,10 +2,10 @@
 Repo for OKCoders Bootcamp
 
 # HTML Notes:
-<!-->
-Headers h1 - h6 
-(<h1> </h1>)
 
+Headers h1 - h6 
+<h1> </h1>
+<br>
 Paragraph p-tag  
 <p> </p> 
 
@@ -39,4 +39,3 @@ Turn other elements into links by wrapping it in anchor tags (turns image into a
 Make use of section element to separate content
 <section> </section> 
 
--->
