@@ -1,8 +1,8 @@
 # OKCoders
 Repo for OKCoders Bootcamp
 
-#H1 HTML Notes:
-
+# HTML Notes:
+<!-->
 Headers h1 - h6 
 (<h1> </h1>)
 
@@ -39,3 +39,4 @@ Turn other elements into links by wrapping it in anchor tags (turns image into a
 Make use of section element to separate content
 <section> </section> 
 
+-->
