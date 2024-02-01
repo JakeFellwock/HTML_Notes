@@ -1,10 +1,10 @@
 # OKCoders
 Repo for OKCoders Bootcamp
 
-HTML Notes:
+#H1 HTML Notes:
 
 Headers h1 - h6 
-<h1> </h1> 
+(<h1> </h1>)
 
 Paragraph p-tag  
 <p> </p> 
