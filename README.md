@@ -66,4 +66,18 @@ Ordered Lists (OL) list items as numbered when displayed <br>
 ```     <li>catchow</li>``` <br>
 ```</ol>``` <br>
 
+Strong element is used to indicate that some text is of strong importance or urgent <br>
+```<strong>This text is important!</strong>```
+
+FORMS <br>
+Form element - is used to create an HTML form for user input ```<form </form>``` <br>
+Form Action - specifies where to send form data when submitted ```action="URL"```<br>
+Input element - allows you several ways to collect data from a web form, <br>
+    these are self closing and do not need closing tags ```<input```<br>
+Type element - allows different kinds of inputs such as password field, reset button etc ```type="text"``` <br>
+Name attribute - is assigned to represent the data being submitted, like a variable ```name="catphotourl"```<br>
+Placeholder - is used to give people a hint at what information is being gathered ```placeholder="cat photo URL"```<br>
+Required attribute - is used to prevent users from submitting forms without required information ```required``` <br>
+Button element - Creates a clickable button ```<button>Click here</button>``` <br>
+
 
