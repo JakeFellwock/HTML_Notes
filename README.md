@@ -4,10 +4,10 @@ Repo for OKCoders Bootcamp
 # HTML Notes:
 
 Headers h1 - h6 
-[comment]: <> (<h1> </h1>)
-<br>
+```<h1> </h1> ```
+
 Paragraph p-tag  
-<p> </p> 
+```<p> </p> ```
 
 Main tag ( use to identify different content areas and improve SEO) 
 <main> </main> 
