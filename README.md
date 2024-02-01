@@ -48,8 +48,8 @@ Create an unordered list (UL) <br>
 
 Figure element - defines a caption <br>
 The figure tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. <br>
-```<figure>```
-```<img src="pic_trulli.jpg" alt="Trulli" style="width:100%">```
-```<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>```
-```</figure>```
+```<figure>```<br>
+```<img src="pic_trulli.jpg" alt="Trulli" style="width:100%">```<br>
+```<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>```<br>
+```</figure>```<br>
 
