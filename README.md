@@ -4,7 +4,7 @@ Repo for OKCoders Bootcamp
 # HTML Notes:
 
 Headers h1 - h6 
-<!--- <h1> </h1> --->
+[comment]: <> (<h1> </h1>)
 <br>
 Paragraph p-tag  
 <p> </p> 
