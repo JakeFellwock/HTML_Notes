@@ -3,7 +3,7 @@ Repo for OKCoders Bootcamp
 
 # HTML Notes:
 
-Headers h1 - h6 
+Headers h1 - h6 <br>
 ```<h1> </h1> ```
 
 Paragraph p-tag  
