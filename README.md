@@ -9,11 +9,11 @@ Headers h1 - h6 <br>
 Paragraph p-tag  
 ```<p> </p> ```
 
-Main tag ( use to identify different content areas and improve SEO) 
-<main> </main> 
+Main tag ( use to identify different content areas and improve SEO) <br>
+```<main> </main> ```
 
-Img tag (used to add image - self closing tag) 
-<img> 
+Img tag (used to add image - self closing tag) <br> 
+```<img> ```
 
 HTML attributes inside an opening tag of an element controls the elements behavior such as src for source
 <img src='https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg'> 
