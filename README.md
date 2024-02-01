@@ -39,3 +39,10 @@ Turn other elements into links by wrapping it in anchor tags (turns image into a
 Make use of section element to separate content <br>
 ```<section> </section>``` 
 
+Create an unordered list (UL) <br>
+``` <ul>```
+```     <li>Coffee</li>```
+```     <li>Tea</li>```
+```     <li>Milk</li>```
+``` </ul>```
+
