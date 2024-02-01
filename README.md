@@ -53,3 +53,17 @@ The figure tag specifies self-contained content, like illustrations, diagrams, p
 ```<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>```<br>
 ```</figure>```<br>
 
+Figcaption element is used to add a caption for the figure element <br>
+```<figcaption>Cats love lasagna</figcaption>```
+
+EM tag is used to define emphasized text, displayed as italics <br>
+```<figcaption>Cats <em>love</em> lasagna </figcaption>``` 
+
+Ordered Lists (OL) list items as numbered when displayed <br>
+```<ol>```<br>
+```     <li>thunder</li>``` <br>
+```     <li>lightning</li>``` <br>
+```     <li>catchow</li>``` <br>
+```</ol>``` <br>
+
+
