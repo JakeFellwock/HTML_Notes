@@ -40,9 +40,16 @@ Make use of section element to separate content <br>
 ```<section> </section>``` 
 
 Create an unordered list (UL) <br>
-``` <ul>```
-```     <li>Coffee</li>```
-```     <li>Tea</li>```
-```     <li>Milk</li>```
-``` </ul>```
+``` <ul>```<br>
+```     <li>Coffee</li>```<br>
+```     <li>Tea</li>```<br>
+```     <li>Milk</li>```<br>
+``` </ul>```<br>
+
+Figure element - defines a caption <br>
+The figure tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc. <br>
+```<figure>```
+```<img src="pic_trulli.jpg" alt="Trulli" style="width:100%">```
+```<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>```
+```</figure>```
 
