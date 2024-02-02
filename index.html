@@ -1,6 +1,10 @@
 <!-- This is an HTML comment-->
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>CatPhotoApp</title>  
+    </head>
     <body>
         <main>
             <h1>CatPhotoApp</h1>
@@ -41,14 +45,25 @@
             <h2>Cat form</h2>
             <form action="https://freecatphotoapp.com/submit-cat-photo">
             <fieldset>
-                <label> <input type="radio" id="indoor" name="indoor-outdoor" value="indoor"> indoor cat </label>
+                <legend>Is your cat an indoor or outdoor cat?</legend>
+                <label> <input type="radio" checked id="indoor" name="indoor-outdoor" value="indoor"> indoor cat </label>
+                <legend>Is your cat an indoor or outdoor cat?</legend>
                 <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>  
             </fieldset>
                 <input type="text" name="catphoturl" placeholder="cat photo URL" required>
                 <button type="button">Submit</button>
+            <fieldset>
+                <legend>What's your cat's personality?</legend>
+                <input id="loving" type="checkbox" checked value="loving" name="personality"> <label for="loving">Loving</label>
+                <input id="lazy" type="checkbox" value="lazy" name="personality"><label for="lazy">Lazy</label>
+                <input id="energetic" type="checkbox" value="energetic" name="personality"> <label for="energetic">Energetic</label>
+            </fieldset>
             </form>
         </section>
         </main>
+            <footer
+            <p> No Copyright - freecodecamp.org</p>
+            </footer>
     </body>
 </html>
 

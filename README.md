@@ -113,4 +113,29 @@ If you select the Indoor radio button and submit the form, the form data for the
 The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line. <br>
 ```<fieldset> </fieldset>```
 
+Legend element acts as a caption for the content in the fieldset element. Gives context <br>
+```<legend> </legend>```
+
+Checkboxes are created using: <br>
+```<input type="checkbox"> Tacos```
+
+There's another way to associate an input element's text with the element itself. You can nest the text within a label element and add a for attribute with the same value as the input element's id attribute. <br>
+```<input id="tacos" type="checkbox"> <label for="tacos">Tacos</label>```
+
+Like radio buttons, form data for selected checkboxes are name / value attribute pairs. While the value attribute is optional, it's best practice to include it with any checkboxes or radio buttons on the page. <br>
+```<input id="energetic" type="checkbox" value="energetic" name="personality"> <label for="energetic"> Energetic</label>```
+
+In order to make a checkbox checked or radio button selected by default, you need to add the checked attribute to it. There's no need to set a value to the checked attribute. Instead, just add the word checked to the input element, making sure there is space between it and other attributes. <br>
+```<label><input id="indoor" type="radio" name="indoor-outdoor" checked value="indoor"> Indoor</label>```
+
+The head element is a container for metadata and is placed between the html and body tag <br>
+```<head>``` <br>
+```  <title> CatPhotoApp </title>``` <br>
+```</head>``` <br>
+
+All pages should begin with ```<!DOCTYPE html>```. This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications. <br>
+Add this declaration as the first line of the code. <br>
+
+You can set browser behavior by adding self-closing meta elements in the head. Here's an example: <br>
+````<meta attribute="value">`` <br>
 
