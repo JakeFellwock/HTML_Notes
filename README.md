@@ -137,5 +137,5 @@ All pages should begin with ```<!DOCTYPE html>```. This special string is known 
 Add this declaration as the first line of the code. <br>
 
 You can set browser behavior by adding self-closing meta elements in the head. Here's an example: <br>
-````<meta attribute="value">`` <br>
+```<meta attribute="value">``` <br>
 
