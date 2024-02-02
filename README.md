@@ -79,5 +79,15 @@ Name attribute - is assigned to represent the data being submitted, like a varia
 Placeholder - is used to give people a hint at what information is being gathered ```placeholder="cat photo URL"```<br>
 Required attribute - is used to prevent users from submitting forms without required information ```required``` <br>
 Button element - Creates a clickable button ```<button>Click here</button>``` <br>
+Add radio buttons to forms ```<input type="radio> TEXT``` <br>
+Label elements - are used to help associate text for an input element with the input element itself <br>
+```<label><input type="radio"> cat </label>``` <br>
+ID attribute - is used to identify specific HTML elements, each ID must be unique for the entire page ```id="indoor"``` <br>
+To allow one radio button to be selected automagically and deselect the other you must use the Name attribute with the same value
+```name="indoor-outdoor" indoor-outdoor are names of 2 radio buttons```
+If you select the Indoor radio button and submit the form, the form data for the button is based on its name and value attributes. Since your radio buttons do not have a value attribute, the form data will include indoor-outdoor=on, which is not useful when you have multiple buttons. <br>
+```value="name of ID"``` <br>
+The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line. <br>
+```<fieldset> </fieldset>```
 
 
