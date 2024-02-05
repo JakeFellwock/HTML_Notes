@@ -139,3 +139,12 @@ Add this declaration as the first line of the code. <br>
 You can set browser behavior by adding self-closing meta elements in the head. Here's an example: <br>
 ```<meta attribute="value">``` <br>
 
+Block-Level Elements <br>
+A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.<br>
+A block-level element always takes up the full width available (stretches out to the left and right as far as it can). <br>
+Two commonly used block elements are: ```<p> and <div>``` <br>
+
+Inline Elements
+An inline element does not start on a new line. <br>
+An inline element only takes up as much width as necessary. <br>
+This is a ```<span>``` element inside a paragraph. <br>
