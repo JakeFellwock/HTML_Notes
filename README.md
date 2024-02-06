@@ -1,5 +1,5 @@
 # OKCoders
-Repo for OKCoders Bootcamp
+HTML NOTES
 
 Site live on Netlify! - https://bright-pixie-92e313.netlify.app
 
